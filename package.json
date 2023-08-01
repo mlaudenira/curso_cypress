@@ -1,0 +1,19 @@
+{
+  "name": "curso_turma1",
+  "version": "1.0.0",
+  "description": "curso_turma1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mlaudenira/curso_cypress.git"
+  },
+  "author": "Laudenira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mlaudenira/curso_cypress/issues"
+  },
+  "homepage": "https://github.com/mlaudenira/curso_cypress#readme"
+}
